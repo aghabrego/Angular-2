@@ -1,4 +1,4 @@
-node_module/
+node_modules/
 app/app.component.js
 app/app.component.js.map
 app/main.js
